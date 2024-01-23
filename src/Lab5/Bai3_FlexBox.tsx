@@ -68,8 +68,9 @@ const styles = StyleSheet.create({
   },
   tripTitle: {
     overflow: 'hidden',
-    fontSize: 16,
-    paddingTop: 20
+    fontSize: 17,
+    paddingTop: 20,
+    fontWeight: '400'
   },
   headerIcon: {
     position: 'absolute',
