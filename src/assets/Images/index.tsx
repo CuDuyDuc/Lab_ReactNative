@@ -10,6 +10,7 @@ const IMAGES = {
     Avatar : require('./avata.png'),
     Avatar1 : require('./avata_1.png'),
     Avatar2 : require('./avata_2.png'),
+    Star: require('./star.png'),
 };
 
 export default IMAGES;
