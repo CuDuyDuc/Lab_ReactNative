@@ -11,6 +11,7 @@ const IMAGES = {
     Avatar1 : require('./avata_1.png'),
     Avatar2 : require('./avata_2.png'),
     Star: require('./star.png'),
+    Profile: require('./taikhoan.png'),
 };
 
 export default IMAGES;

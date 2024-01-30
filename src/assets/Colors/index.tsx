@@ -16,6 +16,7 @@ const COLORS = {
     WHITE : '#FFFFFF',
     GREEN : 'green',
     DARK_BLUE: '#00008B',
+    WHITE_SMOKE: '#f4f4f4'
 }
 
 export default COLORS;
